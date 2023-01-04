@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: wowthemesnet/mediumish-theme-jekyll
 title: JC homepage
 description: Bookmark this to keep an eye on my project updates!
