@@ -1,1 +1,10 @@
-#This is a test for a blog post on 2023-01-04
+---
+title: My blog post test
+description: How to...
+tags:
+- blog
+- test
+- Oracle Cloud Infrastructure
+---
+
+# __Introduction__
