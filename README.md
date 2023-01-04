@@ -1,4 +1,4 @@
-# josecrcruz.github.io
+# Data Blog
 
 ## My test blog...
 
