@@ -5,4 +5,4 @@
 layout: home
 ---
 
-front page?
+This is a blog post: /_posts/2023-01-04-blog-post-test
