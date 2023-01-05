@@ -27,7 +27,7 @@ url: "https://josecrcruz.github.io/"
 
 # Build settings
 markdown: kramdown
-theme: minima #cayman
+theme: pages-themes.github.io/cayman/ #minima #cayman
 plugins:
   - jekyll-feed
 
