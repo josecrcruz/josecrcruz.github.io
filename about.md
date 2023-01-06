@@ -4,6 +4,8 @@ title: About Jose and this blog
 permalink: /about/
 ---
 
+![Lisbon](/images/about/lisbon-about.jpg)
+
 I've started my professional journey in Information Technologies back in 1999 and my roles during that journey have ranged from development of large scale CRM applications to multi pillar applications architectures to complex data management architectures. This path has provided me first hand insight and a good grasp on why data is extremely important for businesses, organisations and society. 
 
 Data collection happens at every moment of our life, from smartwatch sensors, from mobile phone applications or from all applications we interact directly or indirectly when we purchase tickets for a theatre session, drive on a highway monitored by cameras or even when we go to the hospital to get a treatment. Data is intrinsic to our lives and if explored properly and securely it can transform society. This is what fascinates me... using technology and data to make the world a better place.
