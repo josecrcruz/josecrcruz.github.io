@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jose and this blog
+title: About José and this blog
 permalink: /about/
 ---
 
