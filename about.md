@@ -4,7 +4,7 @@ title: About Jose and this blog
 permalink: /about/
 ---
 
-![Lisbon](/images/lisbon-about.jpg)
+![Lisbon](/images/about/unveil-about.jpg)
 
 I've started my professional journey in Information Technologies back in 1999 and my roles during that journey have ranged from development of large scale CRM applications to multi pillar applications architectures to complex data management architectures. This path has provided me first hand insight and a good grasp on why data is extremely important for businesses, organisations and society. 
 
