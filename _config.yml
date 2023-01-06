@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   reflect the views of Oracle.
 baseurl: ""
 url: "https://josecrcruz.github.io/"
-#twitter_username:  ""
-#github_username:   ""
+#twitter_username:  "jose_cruz"
+#github_username:   "josecrcruz"
 #google_analytics: ""
 
 # Build settings
