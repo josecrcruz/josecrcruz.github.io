@@ -10,7 +10,7 @@ I've started my professional journey in Information Technologies back in 1999 an
 
 Data collection happens at every moment of our life, from smartwatch sensors, from mobile phone applications or from all applications we interact directly or indirectly when we purchase tickets for a theatre session, drive on a highway monitored by cameras or even when we go to the hospital to get a treatment. Data is intrinsic to our lives and if explored properly and securely it can transform society. This is what fascinates me... using technology and data to make the world a better place.
 
-It is common sense that companies and organisations that do drive their activity leveraging data are the most successful ones. Although this is common sense it is easier said than done and due to a lack of factors related to people, process and technology, the majority of the data driven initiatives often do not deliver on their promises and technology is seldom the reason of that.
+It is common sense that companies and organisations that do drive their activity leveraging data are the most successful ones. Although this is common sense it is easier said than done and due to several factors related to people, process and technology, the majority of the data driven initiatives often do not deliver on their promises and technology is seldom the reason for that.
 
 My drive and passion, from a technology perspective, is to understand the art of possible and design and deploy data architectures that combine the best of technology with information management trends and frameworks that address real life use cases that can transform businesses, organisations and society in general.
 
